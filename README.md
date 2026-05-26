@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/moreand458-eng/ESCANOR-ONLY">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=◤+ESCANOR+WABOT+◢+v2.0+ACTIVE;⟨+بوت+واتساب+احترافي+للجيل+القادم+⟩" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=◤+ESCANOR+WABOT+◢+v2.0+ACTIVE;⟨+بوت+واتساب+احترافي+للجيل+القادم+⟩" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,17 +15,13 @@
 
 <!-- BADGES -->
 <p>
-  <a href="https://github.com/moreand458-eng/ESCANOR-ONLY/stargazers">
-    <img src="https://img.shields.io/github/stars/moreand458-eng/ESCANOR-ONLY?style=for-the-badge&logo=github&color=00ffff&labelColor=000000&label=★%20Stars"/>
-  </a>
-  <a href="https://github.com/moreand458-eng/ESCANOR-ONLY/network/members">
-    <img src="https://img.shields.io/github/forks/moreand458-eng/ESCANOR-ONLY?style=for-the-badge&logo=github&color=00ffff&labelColor=000000&label=⑂%20Forks"/>
-  </a>
-  <a href="https://github.com/moreand458-eng/ESCANOR-ONLY/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-00ffff?style=for-the-badge&labelColor=000000"/>
-  </a>
-  <img src="https://img.shields.io/badge/Status-ONLINE-00ffff?style=for-the-badge&labelColor=000000&logo=statuspage"/>
-  <img src="https://img.shields.io/badge/Version-2.0-00ffff?style=for-the-badge&labelColor=000000"/>
+
+[![Stars](https://img.shields.io/github/stars/moreand458-eng/ESCANOR-ONLY?style=for-the-badge&logo=github&color=00ffff&labelColor=000000&label=Stars)](https://github.com/moreand458-eng/ESCANOR-ONLY/stargazers)
+[![Forks](https://img.shields.io/github/forks/moreand458-eng/ESCANOR-ONLY?style=for-the-badge&logo=github&color=00ffff&labelColor=000000&label=Forks)](https://github.com/moreand458-eng/ESCANOR-ONLY/network/members)
+[![License](https://img.shields.io/badge/License-MIT-00ffff?style=for-the-badge&labelColor=000000)](https://github.com/moreand458-eng/ESCANOR-ONLY/blob/main/LICENSE)
+![Status](https://img.shields.io/badge/Status-ONLINE-00ffff?style=for-the-badge&labelColor=000000)
+![Version](https://img.shields.io/badge/Version-2.0-00ffff?style=for-the-badge&labelColor=000000)
+
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -38,7 +34,7 @@
 
 ## 📸 ⟨ معرض النظام ⟩
 
-<img src="https://i.postimg.cc/cJKRZCbG/027d38aab6ad3979f4d2d44b0086e7d8.jpg" width="75%" style="border-radius:10px; border: 2px solid #00ffff;"/>
+<img src="https://i.postimg.cc/hjhCbkvR/b6d11b7bf177e610e41d4349acb61f20.jpg" width="75%" style="border-radius:10px; border: 2px solid #00ffff;"/>
 
 <br/><br/>
 
